@@ -32,7 +32,9 @@ The project uses a sample dataset that simulates a school's electronic gradebook
 
 ## Power BI File
 
-[Download Power BI Dashboard (.pbix)](Academic_Performance_Dashboard.pbix)
+## Power BI Dashboard
+
+[⬇️ Download Power BI Dashboard (.pbix)](Academic_Performance_Dashboard.pbix)
 
 ## Business Objective
 
