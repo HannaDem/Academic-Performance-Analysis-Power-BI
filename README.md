@@ -12,23 +12,23 @@ The project uses a sample dataset that simulates a school's electronic gradebook
 
 ### 1. Academic Performance Overview
 
-![Academic Performance Overview](Images/academic_performance_overview.png)
+![Academic Performance Overview](Images/academic_performance_overview.jpg)
 
 ### 2. Class Performance
 
-![Class Performance](Images/class_performance.png)
+![Class Performance](Images/class_performance.jpg)
 
 ### 3. Class Details
 
-![Class Details](Images/class_details.png)
+![Class Details](Images/class_details.jpg)
 
 ### 4. Analytics & Time Intelligence
 
-![Analytics & Time Intelligence](Images/analytics_time_intelligence.png)
+![Analytics & Time Intelligence](Images/analytics_time_intelligence.jpg)
 
 ### 5. Month-over-Month Analysis
 
-![MoM Analysis](Images/mom_ag_details.png)
+![MoM Analysis](Images/mom_ag_details.jpg)
 
 ## Business Objective
 
