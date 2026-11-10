@@ -30,7 +30,6 @@ The project uses a sample dataset that simulates a school's electronic gradebook
 
 ![MoM Analysis](Images/mom_ag_details.jpg)
 
-## Power BI File
 
 ## Power BI Dashboard
 
