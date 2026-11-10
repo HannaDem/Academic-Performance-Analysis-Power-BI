@@ -30,6 +30,10 @@ The project uses a sample dataset that simulates a school's electronic gradebook
 
 ![MoM Analysis](Images/mom_ag_details.jpg)
 
+## Power BI File
+
+[Download Power BI Dashboard (.pbix)](Academic_Performance_Dashboard.pbix)
+
 ## Business Objective
 
 The goal of this project is to create an interactive dashboard for monitoring student performance and analyzing academic results.
